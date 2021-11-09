@@ -52,7 +52,7 @@ namespace GroupViewProject
                 }
                 else
                 {
-                    MessageBox.Show("Поле пустое");
+                    MessageBox.Show("Запоните поле");
                 }
             }
             catch (Exception error)
@@ -81,7 +81,7 @@ namespace GroupViewProject
                 }
                 else
                 {
-                    MessageBox.Show("Поле пустое");
+                    MessageBox.Show("ПЗаполните пустое поле");
                 }
             }
             catch (Exception error)
@@ -108,7 +108,7 @@ namespace GroupViewProject
                 }
                 else
                 {
-                    MessageBox.Show("Поля пустые");
+                    MessageBox.Show("Заполните пустые пустые");
                 }
             }
             catch (Exception error)
