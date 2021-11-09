@@ -81,7 +81,7 @@ namespace GroupViewProject
                 }
                 else
                 {
-                    MessageBox.Show("ПЗаполните пустое поле");
+                    MessageBox.Show("Заполните пустое поле");
                 }
             }
             catch (Exception error)
